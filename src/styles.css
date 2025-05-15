@@ -6,4 +6,9 @@
 
 body {
     background-image: linear-gradient(135deg, #F7CFD8, #8E7DBE); 
+    display: flex; 
+}
+
+.bodycontainer ul li{
+    list-style-type: none; 
 }
