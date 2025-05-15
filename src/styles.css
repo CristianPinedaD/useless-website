@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
-    font-family: Roboto, sans-serif; 
+    font-family: Roboto, sans-serif;
 }
 
 body {
-    background-image: linear-gradient(135deg, #F7CFD8, #8E7DBE); 
-    display: flex; 
+    background-image: linear-gradient(135deg, #F7CFD8, #8E7DBE);
+    display: flex;
 }
 
-.bodycontainer ul li{
-    list-style-type: none; 
+.bodycontainer ul li {
+    list-style-type: none;
 }
